@@ -134,6 +134,8 @@ what is x
 `[Visit GitHub!](www.github.com).`  [Visit GitHub!](www.github.com).
 
  ![Beautiful](./5.jpg)
+ 
+ ![GIt Merge](./git merge.gif)
 
 ## Tables
 ```
