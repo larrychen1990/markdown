@@ -1,6 +1,9 @@
 # Markdown Basics
+=======================================
+=======================================
 
 ## Headings
+=======================================
 ```
 # The largest heading (an <h1> tag)
 ## The second largest heading (an <h2> tag)
@@ -11,6 +14,7 @@
 ######h6
 
 ## Horizontal Rules
+=======================================
 ```
 ---
 
@@ -27,6 +31,7 @@
 
 
 ## Blockquotes
+=======================================
 ```
 In the words of Abraham Lincoln:
 > Pardon my frenchch
@@ -37,6 +42,8 @@ In the words of Abraham Lincoln:
 >> Pardon my frenchch
 
 ## Styling text
+=======================================
+
 `*This text will be italic*`  *italic*
 
 `**This text will be bold**`  **bold**
@@ -59,7 +66,11 @@ Both bold and italic can use either a * or an _ around the text for styling. Thi
 **Everyone *must* attend the meeting at 5 o'clock today.**
 
 ## Lists
+=======================================
+
 ### Unordered lists
+----------------------------------------------
+
 You can make an unordered list by preceding list items with either a `*` or a `-`.
 ```
 *  Item
@@ -79,6 +90,8 @@ You can make an unordered list by preceding list items with either a `*` or a `-
 - Item
 
 ### Ordered lists
+----------------------------------
+
 You can make an ordered list by preceding list items with a number.
 ```
 1. Item 1
@@ -90,6 +103,8 @@ You can make an ordered list by preceding list items with a number.
 3. Item 3
 
 ### Nested lists
+--------------------------
+
 You can create nested lists by indenting list items by two spaces.
 ```
 1. Item 1
@@ -111,14 +126,20 @@ You can create nested lists by indenting list items by two spaces.
 3. Item 3
 
 ## Code formatting
+=======================================
+
 ### Inline formats
+---------------------------
+
 Use single backticks (`) to format text in a special monospace format. Everything within the backticks appear as-is, with no other special formatting.
 
 ```Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.```
 
 `Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.``
 
-### Multiple lines
+ ###  Multiple lines
+ ---------------------------
+
 You can use triple backticks (```) to format text as its own distinct block.
 
 Check out this neat program I wrote:
@@ -130,6 +151,7 @@ what is x
 ```
 
 ## Links
+==========================================
 
 `[Visit GitHub!](www.github.com).`  [Visit GitHub!](www.github.com).
 
@@ -138,6 +160,8 @@ what is x
  ![GIt Merge](./git merge.gif)
 
 ## Tables
+==========================================
+
 ```
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
@@ -154,6 +178,8 @@ what is x
 
 
 ## Task lists
+==========================================
+
 ```
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> are supported
 - [x] list syntax is required (any unordered or ordered list supported)
@@ -181,6 +207,7 @@ what is x
 
 
 ## [Emoji](http://www.emoji-cheat-sheet.com/)
+==========================================
 
 :-1: `:-1:` 
 
